@@ -1,3 +1,8 @@
+#!/usr/bin/env python3
+
+# Russell Felts
+# Activity 03 Socket Adventure
+
 import socket
 
 
